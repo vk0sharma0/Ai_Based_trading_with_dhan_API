@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+mplfinance
+ta
+scikit-learn
+joblib
+requests
+websocket-client
+xgboost
+tkcalendar
